@@ -22,13 +22,6 @@
 /Users/rustamhajrullin/RiderProjects/AvitoTradeApp/AvitoTradeApp/obj/Debug/net5.0/AvitoTradeApp.TagHelpers.input.cache
 /Users/rustamhajrullin/RiderProjects/AvitoTradeApp/AvitoTradeApp/obj/Debug/net5.0/AvitoTradeApp.TagHelpers.output.cache
 /Users/rustamhajrullin/RiderProjects/AvitoTradeApp/AvitoTradeApp/obj/Debug/net5.0/AvitoTradeApp.RazorCoreGenerate.cache
-/Users/rustamhajrullin/RiderProjects/AvitoTradeApp/AvitoTradeApp/obj/Debug/net5.0/Razor/Pages/Error.cshtml.g.cs
-/Users/rustamhajrullin/RiderProjects/AvitoTradeApp/AvitoTradeApp/obj/Debug/net5.0/Razor/Pages/Index.cshtml.g.cs
-/Users/rustamhajrullin/RiderProjects/AvitoTradeApp/AvitoTradeApp/obj/Debug/net5.0/Razor/Pages/Privacy.cshtml.g.cs
-/Users/rustamhajrullin/RiderProjects/AvitoTradeApp/AvitoTradeApp/obj/Debug/net5.0/Razor/Pages/Shared/_Layout.cshtml.g.cs
-/Users/rustamhajrullin/RiderProjects/AvitoTradeApp/AvitoTradeApp/obj/Debug/net5.0/Razor/Pages/Shared/_ValidationScriptsPartial.cshtml.g.cs
-/Users/rustamhajrullin/RiderProjects/AvitoTradeApp/AvitoTradeApp/obj/Debug/net5.0/Razor/Pages/_ViewImports.cshtml.g.cs
-/Users/rustamhajrullin/RiderProjects/AvitoTradeApp/AvitoTradeApp/obj/Debug/net5.0/Razor/Pages/_ViewStart.cshtml.g.cs
 /Users/rustamhajrullin/RiderProjects/AvitoTradeApp/AvitoTradeApp/obj/Debug/net5.0/AvitoTradeApp.RazorTargetAssemblyInfo.cache
 /Users/rustamhajrullin/RiderProjects/AvitoTradeApp/AvitoTradeApp/obj/Debug/net5.0/AvitoTradeApp.RazorTargetAssemblyInfo.cs
 /Users/rustamhajrullin/RiderProjects/AvitoTradeApp/AvitoTradeApp/obj/Debug/net5.0/AvitoTradeApp.Views.pdb
@@ -37,3 +30,10 @@
 /Users/rustamhajrullin/RiderProjects/AvitoTradeApp/AvitoTradeApp/obj/Debug/net5.0/AvitoTradeApp.pdb
 /Users/rustamhajrullin/RiderProjects/AvitoTradeApp/AvitoTradeApp/obj/Debug/net5.0/AvitoTradeApp.genruntimeconfig.cache
 /Users/rustamhajrullin/RiderProjects/AvitoTradeApp/AvitoTradeApp/obj/Debug/net5.0/AvitoTradeApp.csproj.CopyComplete
+/Users/rustamhajrullin/RiderProjects/AvitoTradeApp/AvitoTradeApp/obj/Debug/net5.0/Razor/Views/Error.cshtml.g.cs
+/Users/rustamhajrullin/RiderProjects/AvitoTradeApp/AvitoTradeApp/obj/Debug/net5.0/Razor/Views/Home/Index.cshtml.g.cs
+/Users/rustamhajrullin/RiderProjects/AvitoTradeApp/AvitoTradeApp/obj/Debug/net5.0/Razor/Views/Home/Privacy.cshtml.g.cs
+/Users/rustamhajrullin/RiderProjects/AvitoTradeApp/AvitoTradeApp/obj/Debug/net5.0/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Users/rustamhajrullin/RiderProjects/AvitoTradeApp/AvitoTradeApp/obj/Debug/net5.0/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/Users/rustamhajrullin/RiderProjects/AvitoTradeApp/AvitoTradeApp/obj/Debug/net5.0/Razor/Views/_ViewImports.cshtml.g.cs
+/Users/rustamhajrullin/RiderProjects/AvitoTradeApp/AvitoTradeApp/obj/Debug/net5.0/Razor/Views/_ViewStart.cshtml.g.cs
