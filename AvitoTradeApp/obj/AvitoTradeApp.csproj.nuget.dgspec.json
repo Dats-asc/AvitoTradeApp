@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "/Users/rustamhajrullin/RiderProjects/AvitoTradeApp/AvitoTradeApp/AvitoTradeApp.csproj": {}
+    "C:\\Users\\Robert\\Source\\Repos\\AvitoTradeApp\\AvitoTradeApp\\AvitoTradeApp.csproj": {}
   },
   "projects": {
-    "/Users/rustamhajrullin/RiderProjects/AvitoTradeApp/AvitoTradeApp/AvitoTradeApp.csproj": {
+    "C:\\Users\\Robert\\Source\\Repos\\AvitoTradeApp\\AvitoTradeApp\\AvitoTradeApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/rustamhajrullin/RiderProjects/AvitoTradeApp/AvitoTradeApp/AvitoTradeApp.csproj",
+        "projectUniqueName": "C:\\Users\\Robert\\Source\\Repos\\AvitoTradeApp\\AvitoTradeApp\\AvitoTradeApp.csproj",
         "projectName": "AvitoTradeApp",
-        "projectPath": "/Users/rustamhajrullin/RiderProjects/AvitoTradeApp/AvitoTradeApp/AvitoTradeApp.csproj",
-        "packagesPath": "/Users/rustamhajrullin/.nuget/packages/",
-        "outputPath": "/Users/rustamhajrullin/RiderProjects/AvitoTradeApp/AvitoTradeApp/obj/",
+        "projectPath": "C:\\Users\\Robert\\Source\\Repos\\AvitoTradeApp\\AvitoTradeApp\\AvitoTradeApp.csproj",
+        "packagesPath": "C:\\Users\\Robert\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Robert\\Source\\Repos\\AvitoTradeApp\\AvitoTradeApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/rustamhajrullin/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Robert\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -55,7 +57,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.401/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     }
