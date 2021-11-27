@@ -8,31 +8,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="25291754-d1b6-4bb2-83a5-e7249d20569e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/AvitoTradeApp/Pages/Home/Index.cshtml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.AvitoTradeApp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.AvitoTradeApp/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AvitoTradeApp/AvitoTradeApp.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/AvitoTradeApp/AvitoTradeApp.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AvitoTradeApp/Pages/Index.cshtml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AvitoTradeApp/Pages/Index.cshtml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/AvitoTradeApp/Pages/Home/Index.cshtml.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AvitoTradeApp/Pages/Privacy.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/AvitoTradeApp/Pages/Home/Privacy.cshtml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AvitoTradeApp/Pages/Privacy.cshtml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/AvitoTradeApp/Pages/Home/Privacy.cshtml.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AvitoTradeApp/Startup.cs" beforeDir="false" afterPath="$PROJECT_DIR$/AvitoTradeApp/Startup.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AvitoTradeApp/bin/Debug/net5.0/AvitoTradeApp.Views.dll" beforeDir="false" afterPath="$PROJECT_DIR$/AvitoTradeApp/bin/Debug/net5.0/AvitoTradeApp.Views.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AvitoTradeApp/bin/Debug/net5.0/AvitoTradeApp.Views.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/AvitoTradeApp/bin/Debug/net5.0/AvitoTradeApp.Views.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AvitoTradeApp/bin/Debug/net5.0/AvitoTradeApp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/AvitoTradeApp/bin/Debug/net5.0/AvitoTradeApp.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AvitoTradeApp/bin/Debug/net5.0/AvitoTradeApp.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/AvitoTradeApp/bin/Debug/net5.0/AvitoTradeApp.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AvitoTradeApp/bin/Debug/net5.0/ref/AvitoTradeApp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/AvitoTradeApp/bin/Debug/net5.0/ref/AvitoTradeApp.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AvitoTradeApp/obj/Debug/net5.0/AvitoTradeApp.RazorCoreGenerate.cache" beforeDir="false" afterPath="$PROJECT_DIR$/AvitoTradeApp/obj/Debug/net5.0/AvitoTradeApp.RazorCoreGenerate.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AvitoTradeApp/obj/Debug/net5.0/AvitoTradeApp.Views.dll" beforeDir="false" afterPath="$PROJECT_DIR$/AvitoTradeApp/obj/Debug/net5.0/AvitoTradeApp.Views.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AvitoTradeApp/obj/Debug/net5.0/AvitoTradeApp.Views.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/AvitoTradeApp/obj/Debug/net5.0/AvitoTradeApp.Views.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AvitoTradeApp/obj/Debug/net5.0/AvitoTradeApp.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/AvitoTradeApp/obj/Debug/net5.0/AvitoTradeApp.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AvitoTradeApp/obj/Debug/net5.0/AvitoTradeApp.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/AvitoTradeApp/obj/Debug/net5.0/AvitoTradeApp.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AvitoTradeApp/obj/Debug/net5.0/AvitoTradeApp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/AvitoTradeApp/obj/Debug/net5.0/AvitoTradeApp.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AvitoTradeApp/obj/Debug/net5.0/AvitoTradeApp.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/AvitoTradeApp/obj/Debug/net5.0/AvitoTradeApp.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AvitoTradeApp/obj/Debug/net5.0/Razor/Pages/Index.cshtml.g.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AvitoTradeApp/obj/Debug/net5.0/Razor/Pages/Privacy.cshtml.g.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AvitoTradeApp/obj/Debug/net5.0/ref/AvitoTradeApp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/AvitoTradeApp/obj/Debug/net5.0/ref/AvitoTradeApp.dll" afterDir="false" />
-    </list>
+    <list default="true" id="25291754-d1b6-4bb2-83a5-e7249d20569e" name="Changes" comment="inti" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,7 +17,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="frontend" />
+        <entry key="$PROJECT_DIR$" value="master" />
       </map>
     </option>
   </component>
@@ -52,6 +28,11 @@
       <filtered-out-file-type name="TAG" />
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/AvitoTradeApp/obj/Debug/net5.0/Razor/Views/Shared/_Layout.cshtml.g.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/AvitoTradeApp/Views/Home/Privacy.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" root2="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/AvitoTradeApp/Views/Home/Index.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" root2="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -117,6 +98,14 @@
       <updated>1637934200983</updated>
       <workItem from="1637934207486" duration="4893000" />
     </task>
+    <task id="LOCAL-00001" summary="inti">
+      <created>1638009745338</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1638009745338</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -135,5 +124,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="inti" />
+    <option name="LAST_COMMIT_MESSAGE" value="inti" />
   </component>
 </project>
